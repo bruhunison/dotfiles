@@ -106,5 +106,5 @@ source $ZSH/oh-my-zsh.sh
 alias sudo='doas'
 alias sudoedit='doas rnano'
 
-#coloracript
+#colorscript
 colorscript -r
