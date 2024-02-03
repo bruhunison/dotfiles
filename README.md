@@ -13,16 +13,17 @@ Arch BTW
 ### Packages i use from the base pacman repos.
 
 1. i3-wm
-2. Zsh along with [Oh My ZSH!](https://ohmyz.sh/) using the sorin theme
-3. Dmenu
-4. Nitrogen
-5. Alacritty along with [Alacritty Themes](https://github.com/alacritty/alacritty-theme) using the catppuccin_frappe theme
-6. Nano
-7. Firefox
-8. Code
-9. Steam
+2. zsh along with [Oh My ZSH!](https://ohmyz.sh/) using the sorin theme
+3. dmenu
+4. nitrogen
+5. alacritty along with [Alacritty Themes](https://github.com/alacritty/alacritty-theme) using the catppuccin_frappe theme
+6. nano
+7. firefox
+8. code
+9. steam
 10. flatpak
-11. Flameshot
+11. flameshot
+12. opendoas
 
 ### Packages from the aur i use.
 
