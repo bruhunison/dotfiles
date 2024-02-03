@@ -211,6 +211,10 @@ exec --no-startup-id lxsession
 #Sets the refresh rate of dp1 to 165hz
 exec xrandr --output DP-1 --mode 1920x1080 --rate 165.00
 
+#this will load the open tablet driver daemon on i3 start.
+#cuz for some fucking reason i3 doesn't load systemd graphical-session.target on startup.
+exec --no-startup-id otd-daemon
+
 #Custom Keybinds
 bindsym $mod+Shift+z exec dolphin
 bindsym $mod+p exec flameshot gui
