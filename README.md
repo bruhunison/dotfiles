@@ -24,11 +24,12 @@ Arch BTW
 10. flatpak
 11. flameshot
 12. opendoas
+13. lolcat
 
 ### Packages from the aur i use.
 
 1. i3status-rs using the modern theme
-2. yay
+2. yay.git
 3. colorscript
 4. opentabletdriver
 
