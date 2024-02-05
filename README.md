@@ -25,6 +25,10 @@ Arch BTW
 11. flameshot
 12. opendoas
 13. lolcat
+14. sddm
+15. networkmanager
+16. audacity
+17. kdenlive
 
 ### Packages from the aur i use.
 
