@@ -29,6 +29,7 @@ Arch BTW
 15. networkmanager
 16. audacity
 17. kdenlive
+18. dolphin
 
 ### Packages from the aur i use.
 
