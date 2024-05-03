@@ -31,6 +31,7 @@ Arch BTW
 17. kdenlive
 18. dolphin
 19. git
+20. lxsession
 
 ### Packages from the aur i use.
 
