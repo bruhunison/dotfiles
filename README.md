@@ -38,9 +38,11 @@ Arch BTW
 2. yay.git
 3. colorscript
 4. opentabletdriver
+5. Font Awesome 4
 
 ### Flatpaks i use
 1. Vesktop
 2. Spotify
 3. osu!Lazer
 4. Prismlauncher
+5. Flatseal
