@@ -32,6 +32,7 @@ Arch BTW
 18. dolphin
 19. git
 20. lxsession
+21. xdg-desktop-portal-gtk
 
 ### Packages from the aur i use.
 
