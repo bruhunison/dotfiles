@@ -14,7 +14,7 @@ Arch BTW
 
 1. i3-wm
 2. zsh along with [Oh My ZSH!](https://ohmyz.sh/) using the sorin theme
-3. dmenu
+3. rofi
 4. nitrogen
 5. alacritty along with [Alacritty Themes](https://github.com/alacritty/alacritty-theme) using the catppuccin_frappe theme
 6. nano
@@ -30,6 +30,7 @@ Arch BTW
 16. audacity
 17. kdenlive
 18. dolphin
+19. git
 
 ### Packages from the aur i use.
 
